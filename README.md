@@ -52,9 +52,12 @@ flutter run
 
 - Use Copy button to copy the result
 
-<img src="images/1.jpg" alt="Home Page" width="180"/>
-<img src="images/2.jpg" alt="Home Page" width="180"/>
-<img src="images/3.jpg" alt="Home Page" width="180"/>
+<p align="center">
+  <img src="images/1.jpg" alt="Image 1" width="180"/>
+  <img src="images/2.jpg" alt="Image 2" width="180"/>
+  <img src="images/3.jpg" alt="Image 3" width="180"/>
+</p>
+
 
 ## Running Tests
 
